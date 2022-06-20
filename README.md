@@ -1,9 +1,9 @@
 ### Hi there, this is n8n 👋
 
-- Check out our main project: <a href="https://github.com/n8n-io/n8n">Click Here!</a>
+- Check out our main project: <a href="https://github.com/n8n-io/n8n">Click Here</a>
 - Help us improve our product and join our team: <a href="https://n8n.io/careers">n8n open positions</a>
 
-![Image](https://blog.n8n.io/content/images/size/w1600/2022/03/3360-1953-max.png "Optional title")
+![Image](https://blog.n8n.io/content/images/size/w1600/2021/11/data_pipeline_cover.svg "Optional title")
 
 <!--
 **mattiasmoodypettersson/mattiasmoodypettersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
