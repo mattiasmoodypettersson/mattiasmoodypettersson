@@ -1,5 +1,7 @@
 ### Hi there, this is n8n 👋
 
+![Image](https://blog.n8n.io/content/images/size/w1600/2022/03/3360-1953-max.png "Optional title")
+
 <!--
 **mattiasmoodypettersson/mattiasmoodypettersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
