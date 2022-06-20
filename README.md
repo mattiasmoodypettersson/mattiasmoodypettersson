@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is n8n 👋
 
 <!--
 **mattiasmoodypettersson/mattiasmoodypettersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-test test 
+n8n is a low-code workflow automation tool that allows you to connect different services together with custom logic (think syncing your CRM with an internal database or allowing companies to easily build Slack bots for their products). We launched 1.5 years ago to a ton of interest, and things have accelerated since then:
+
+📈 With 75m Docker pulls and a huge active user base/community - we're already building global traction
+⭐️ With 23k stars, we are now in the top 500 of the 238m projects on GitHub
+🌱 We were Sequoia's first seed investment in Germany, and recently raised a $12m Series A round, led by Felicis Ventures
+
+We're on a mission to give technical superpowers to everyone with a computer. check out our open positions here: https://n8n.io/careers
